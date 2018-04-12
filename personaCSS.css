@@ -1,14 +1,17 @@
 h2 {
 	color: #332222;
-	font-family: "Bauhaus 93";
+	font-family: "Bauhaus 93", sans-serif;
 }
+
 h1 {
 	color: darkred;
 	background-color: antiquewhite;
+	border-bottom: 200px;
+	border-bottom-color: black;
 }
 
 p {
-	color: royalblue
+	color: royalblue;
 	font-size: large;
 }
 body {
